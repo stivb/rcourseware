@@ -1,0 +1,99 @@
+1. What is the mean of nDeadDriversPerBillMiles?
+= 15.7901960784314 +-0.1
+2. What is the standard deviation of nDeadDriversPerBillMiles?
+= 4.12200217864866 +-0.1
+3. What is the median of nDeadDriversPerBillMiles?
+= 15.6 +-0.1
+4. What is the minimum of nDeadDriversPerBillMiles?
+= 5.9 +-0.1
+5. What is the maximum of nDeadDriversPerBillMiles?
+= 23.9 +-0.1
+6. What is the State with minimum of nDeadDriversPerBillMiles?
+* District of Columbia
+7. What is the State with maximum of nDeadDriversPerBillMiles?
+* North Dakota
+8. What is the mean of pcDeadSpeeding?
+= 31.7254901960784 +-0.1
+9. What is the standard deviation of pcDeadSpeeding?
+= 9.63343849593186 +-0.1
+10. What is the median of pcDeadSpeeding?
+= 34 +-0.1
+11. What is the minimum of pcDeadSpeeding?
+= 13 +-0.1
+12. What is the maximum of pcDeadSpeeding?
+= 54 +-0.1
+13. What is the State with minimum of pcDeadSpeeding?
+* Nebraska
+14. What is the State with maximum of pcDeadSpeeding?
+* Hawaii
+15. What is the mean of pcDeadAlcohol?
+= 30.6862745098039 +-0.1
+16. What is the standard deviation of pcDeadAlcohol?
+= 5.13221276284774 +-0.1
+17. What is the median of pcDeadAlcohol?
+= 30 +-0.1
+18. What is the minimum of pcDeadAlcohol?
+= 16 +-0.1
+19. What is the maximum of pcDeadAlcohol?
+= 44 +-0.1
+20. What is the State with minimum of pcDeadAlcohol?
+* Utah
+21. What is the State with maximum of pcDeadAlcohol?
+* Montana
+22. What is the mean of pcDeadUndistracted?
+= 85.921568627451 +-0.1
+23. What is the standard deviation of pcDeadUndistracted?
+= 15.158948693435 +-0.1
+24. What is the median of pcDeadUndistracted?
+= 88 +-0.1
+25. What is the minimum of pcDeadUndistracted?
+= 10 +-0.1
+26. What is the maximum of pcDeadUndistracted?
+= 100 +-0.1
+27. What is the State with minimum of pcDeadUndistracted?
+* Mississippi
+28. What is the State with maximum of pcDeadUndistracted?
+* District of Columbia
+29. What is the mean of pcDeadFirstAccident?
+= 88.7254901960784 +-0.1
+30. What is the standard deviation of pcDeadFirstAccident?
+= 6.96011043410246 +-0.1
+31. What is the median of pcDeadFirstAccident?
+= 88 +-0.1
+32. What is the minimum of pcDeadFirstAccident?
+= 76 +-0.1
+33. What is the maximum of pcDeadFirstAccident?
+= 100 +-0.1
+34. What is the State with minimum of pcDeadFirstAccident?
+* Kentucky
+35. What is the State with maximum of pcDeadFirstAccident?
+* District of Columbia
+36. What is the mean of premiums?
+= 886.957647058824 +-0.1
+37. What is the standard deviation of premiums?
+= 178.296284791223 +-0.1
+38. What is the median of premiums?
+= 858.97 +-0.1
+39. What is the minimum of premiums?
+= 641.96 +-0.1
+40. What is the maximum of premiums?
+= 1301.52 +-0.1
+41. What is the State with minimum of premiums?
+* Idaho
+42. What is the State with maximum of premiums?
+* New Jersey
+43. What is the mean of lossesPerDriver?
+= 134.493137254902 +-0.1
+44. What is the standard deviation of lossesPerDriver?
+= 24.8359224906341 +-0.1
+45. What is the median of lossesPerDriver?
+= 136.05 +-0.1
+46. What is the minimum of lossesPerDriver?
+= 82.75 +-0.1
+47. What is the maximum of lossesPerDriver?
+= 194.78 +-0.1
+48. What is the State with minimum of lossesPerDriver?
+* Idaho
+49. What is the State with maximum of lossesPerDriver?
+* Louisiana
+
