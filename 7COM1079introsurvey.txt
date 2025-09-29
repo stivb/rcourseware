@@ -1,0 +1,202 @@
+ID,Start time,Completion time,Email,Name,How well do you know GIT,How comfortable are you using Spreadsheets,How good do you think you are at Statistics,How well do you know the programming language R,What is your level of experience in using a Kanban Board,Which would be the best way to display the percentage of voters who are Republicans or Democrats in the USA,Which would be the best way to show historic rainfall levels,Which would be the best way to show the relationship between height and success at basketball,Put these topics in Computer Science in order from the most interesting to the least interesting,"If I told you my research showed that the influence of rain on cactus development had a correlation of 0.6 and a p value of 0.5, should I be confident in presenting this to an academic audience"
+1,11/3/20 8:03:31,11/3/20 8:04:22,comqsjb@herts.ac.uk,Steve Bennett,5,5,3,3,3,Pie Chart,Line Plot,Scatterplot,Software Engineering;Data Science;Artificial Intelligence;Algorithms;User Experience Design;,No
+3,11/3/20 8:31:03,11/3/20 8:31:17,anonymous,,3,3,4,2,4,Pie Chart,Pie Chart,Line Plot,Software Engineering;Artificial Intelligence;Data Science;User Experience Design;Algorithms;,Yes
+4,11/3/20 9:50:17,11/3/20 9:51:56,anonymous,,1,1,4,3,1,Histogram,Line Plot,Line Plot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,Yes
+5,11/3/20 9:50:29,11/3/20 9:52:11,anonymous,,1,2,3,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;Data Science;,Yes
+6,11/3/20 9:50:51,11/3/20 9:52:22,anonymous,,1,2,2,1,1,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Software Engineering;User Experience Design;Data Science;Algorithms;,Yes
+7,11/3/20 9:51:34,11/3/20 9:52:40,anonymous,,1,3,3,1,1,Pie Chart,Line Plot,Histogram,Algorithms;Software Engineering;User Experience Design;Artificial Intelligence;Data Science;,Maybe
+8,11/3/20 9:50:44,11/3/20 9:52:42,anonymous,,1,2,2,1,1,Bar Chart,Histogram,Histogram,Algorithms;User Experience Design;Data Science;Software Engineering;Artificial Intelligence;,Maybe
+9,11/3/20 9:50:44,11/3/20 9:52:52,anonymous,,1,3,3,2,1,Histogram,Pie Chart,Histogram,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+10,11/3/20 9:50:46,11/3/20 9:53:03,anonymous,,,5,1,,,Pie Chart,Heat Map,Line Plot,Data Science;Artificial Intelligence;Software Engineering;Algorithms;User Experience Design;,Maybe
+11,11/3/20 9:50:40,11/3/20 9:53:14,anonymous,,1,1,2,1,1,Bar Chart,Histogram,Line Plot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+12,11/3/20 9:50:37,11/3/20 9:54:45,anonymous,,2,4,3,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+13,11/3/20 9:51:17,11/3/20 9:54:51,anonymous,,1,1,4,3,1,Pie Chart,Histogram,Scatterplot,Algorithms;Software Engineering;Data Science;User Experience Design;Artificial Intelligence;,Yes
+14,11/3/20 9:50:28,11/3/20 9:57:19,anonymous,,3,5,3,3,5,Bar Chart,Line Plot,Line Plot,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,Maybe
+15,11/3/20 9:51:22,11/3/20 9:58:17,anonymous,,5,5,4,3,4,Heat Map,Scatterplot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Maybe
+17,11/3/20 10:02:36,11/3/20 10:03:10,anonymous,,1,1,4,2,1,Histogram,Line Plot,Line Plot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,
+18,11/3/20 10:02:41,11/3/20 10:03:20,anonymous,,1,3,3,2,1,Histogram,Histogram,Histogram,Data Science;Artificial Intelligence;User Experience Design;Software Engineering;Algorithms;,No
+19,11/3/20 10:02:39,11/3/20 10:03:29,anonymous,,2,3,3,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+20,11/3/20 10:02:48,11/3/20 10:03:32,anonymous,,1,2,1,1,1,Bar Chart,Line Plot,Line Plot,Artificial Intelligence;Software Engineering;User Experience Design;Data Science;Algorithms;,Yes
+21,11/3/20 10:02:38,11/3/20 10:04:00,anonymous,,3,4,3,2,4,Pie Chart,Histogram,Line Plot,User Experience Design;Software Engineering;Algorithms;Data Science;Artificial Intelligence;,Maybe
+22,11/3/20 10:02:44,11/3/20 10:04:04,anonymous,,3,5,4,3,5,Bar Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,Maybe
+23,11/3/20 10:02:43,11/3/20 10:04:13,anonymous,,5,5,5,5,5,Bar Chart,Pie Chart,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,No
+24,11/3/20 10:02:54,11/3/20 10:04:21,anonymous,,2,4,3,2,1,Bar Chart,Pie Chart,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+25,11/3/20 10:02:55,11/3/20 10:04:22,anonymous,,5,5,3,3,2,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,No
+26,11/3/20 10:02:47,11/3/20 10:04:53,anonymous,,4,3,1,1,3,Bar Chart,Line Plot,Heat Map,Algorithms;Artificial Intelligence;Data Science;Software Engineering;User Experience Design;,Maybe
+27,11/3/20 10:02:45,11/3/20 10:04:57,anonymous,,1,1,4,4,1,Pie Chart,Heat Map,Line Plot,Algorithms;Software Engineering;Data Science;Artificial Intelligence;User Experience Design;,Yes
+28,11/3/20 10:02:38,11/3/20 10:05:00,anonymous,,1,2,4,3,1,Bar Chart,Pie Chart,Line Plot,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Maybe
+29,11/3/20 10:02:52,11/3/20 10:05:17,anonymous,,2,2,1,1,1,Pie Chart,Histogram,Line Plot,Software Engineering;Data Science;Artificial Intelligence;User Experience Design;Algorithms;,Yes
+30,11/3/20 10:03:00,11/3/20 10:05:18,anonymous,,1,4,3,3,1,Pie Chart,Histogram,Line Plot,Algorithms;Data Science;Artificial Intelligence;Software Engineering;User Experience Design;,Maybe
+31,11/3/20 10:03:03,11/3/20 10:05:23,anonymous,,1,4,2,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,Maybe
+32,11/3/20 10:04:37,11/3/20 10:05:25,anonymous,,1,2,3,1,1,Pie Chart,Histogram,Histogram,Artificial Intelligence;Software Engineering;Algorithms;User Experience Design;Data Science;,Yes
+33,11/3/20 10:03:22,11/3/20 10:05:44,anonymous,,1,3,4,1,1,Pie Chart,Line Plot,Histogram,Software Engineering;Artificial Intelligence;Algorithms;User Experience Design;Data Science;,Maybe
+34,11/3/20 10:03:07,11/3/20 10:05:46,anonymous,,3,3,3,2,1,Pie Chart,Histogram,Pie Chart,Data Science;Software Engineering;Algorithms;Artificial Intelligence;User Experience Design;,Maybe
+35,11/3/20 10:03:40,11/3/20 10:05:50,anonymous,,1,1,5,1,1,Bar Chart,Scatterplot,Histogram,Artificial Intelligence;Software Engineering;Data Science;Algorithms;User Experience Design;,Maybe
+36,11/3/20 10:02:56,11/3/20 10:05:58,anonymous,,3,3,3,,2,Bar Chart,Scatterplot,Line Plot,Algorithms;Software Engineering;User Experience Design;Data Science;Artificial Intelligence;,Maybe
+37,11/3/20 10:02:56,11/3/20 10:06:05,anonymous,,2,3,3,1,2,Histogram,Histogram,Histogram,Artificial Intelligence;Data Science;Algorithms;User Experience Design;Software Engineering;,Maybe
+38,11/3/20 10:03:48,11/3/20 10:06:09,anonymous,,4,5,4,3,2,Histogram,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,Yes
+39,11/3/20 9:58:33,11/3/20 10:06:11,anonymous,,3,,3,2,,Pie Chart,Histogram,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+40,11/3/20 10:03:17,11/3/20 10:06:42,anonymous,,1,3,2,1,1,Pie Chart,Histogram,Line Plot,Algorithms;User Experience Design;Software Engineering;Artificial Intelligence;Data Science;,Maybe
+41,11/3/20 10:04:39,11/3/20 10:07:03,anonymous,,4,4,2,2,2,Pie Chart,Pie Chart,Histogram,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Yes
+42,11/3/20 10:03:13,11/3/20 10:07:07,anonymous,,1,5,3,1,3,Pie Chart,Histogram,Line Plot,Data Science;Artificial Intelligence;Software Engineering;Algorithms;User Experience Design;,Maybe
+43,11/3/20 9:50:32,11/3/20 10:07:19,anonymous,,1,4,3,1,1,Pie Chart,Line Plot,Scatterplot,User Experience Design;Data Science;Artificial Intelligence;Software Engineering;Algorithms;,Maybe
+44,11/3/20 10:02:57,11/3/20 10:07:49,anonymous,,1,4,3,1,1,Pie Chart,Histogram,,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,No
+45,11/3/20 10:02:52,11/3/20 10:07:50,anonymous,,4,3,3,1,1,Bar Chart,Pie Chart,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+46,11/3/20 10:07:27,11/3/20 10:07:58,anonymous,,1,3,5,1,1,Heat Map,Pie Chart,Histogram,Artificial Intelligence;User Experience Design;Data Science;Software Engineering;Algorithms;,Yes
+47,11/3/20 10:03:03,11/3/20 10:08:01,anonymous,,3,2,1,1,1,Pie Chart,Line Plot,Line Plot,Data Science;User Experience Design;Software Engineering;Artificial Intelligence;Algorithms;,Yes
+48,11/3/20 10:07:14,11/3/20 10:08:05,anonymous,,1,5,3,2,1,Histogram,Line Plot,Line Plot,Algorithms;User Experience Design;Software Engineering;Artificial Intelligence;Data Science;,Yes
+49,11/3/20 10:03:51,11/3/20 10:08:09,anonymous,,3,3,3,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Maybe
+50,11/3/20 10:06:57,11/3/20 10:08:22,anonymous,,2,3,1,1,1,Pie Chart,Histogram,Line Plot,Software Engineering;Algorithms;Data Science;Artificial Intelligence;User Experience Design;,Maybe
+51,11/3/20 10:03:22,11/3/20 10:08:32,anonymous,,4,5,5,5,2,Histogram,Histogram,Pie Chart,Data Science;Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;,Yes
+53,11/3/20 10:06:39,11/3/20 10:09:01,anonymous,,5,3,3,1,1,Bar Chart,Histogram,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+54,11/3/20 10:07:20,11/3/20 10:09:18,anonymous,,3,3,4,1,1,Pie Chart,Line Plot,,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+55,11/3/20 10:07:22,11/3/20 10:09:20,anonymous,,1,4,4,4,1,Pie Chart,Heat Map,Histogram,Software Engineering;Artificial Intelligence;Algorithms;Data Science;User Experience Design;,Yes
+56,11/3/20 10:07:48,11/3/20 10:09:46,anonymous,,3,5,4,2,2,Bar Chart,Line Plot,Histogram,Artificial Intelligence;Software Engineering;Algorithms;User Experience Design;Data Science;,Maybe
+57,11/3/20 10:07:26,11/3/20 10:09:53,anonymous,,2,3,3,1,2,Pie Chart,Line Plot,Pie Chart,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+58,11/3/20 10:08:16,11/3/20 10:10:05,anonymous,,1,1,3,1,1,Bar Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,Maybe
+59,11/3/20 10:08:30,11/3/20 10:10:09,anonymous,,2,2,2,3,1,Pie Chart,Pie Chart,Line Plot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,Maybe
+60,11/3/20 10:08:14,11/3/20 10:10:10,anonymous,,1,3,3,1,1,Bar Chart,Pie Chart,Histogram,Algorithms;Data Science;Artificial Intelligence;Software Engineering;User Experience Design;,Maybe
+61,11/3/20 10:05:05,11/3/20 10:11:03,anonymous,,4,4,4,3,3,Histogram,Pie Chart,Pie Chart,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,Maybe
+62,11/3/20 10:08:37,11/3/20 10:11:10,anonymous,,1,3,3,1,1,Histogram,Pie Chart,Pie Chart,Software Engineering;Algorithms;User Experience Design;Artificial Intelligence;Data Science;,Maybe
+63,11/3/20 10:08:48,11/3/20 10:11:42,anonymous,,2,1,3,3,2,Pie Chart,Line Plot,Pie Chart,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,Maybe
+64,11/3/20 10:02:40,11/3/20 10:11:44,anonymous,,3,5,3,3,1,Bar Chart,Histogram,Line Plot,Artificial Intelligence;Algorithms;Data Science;Software Engineering;User Experience Design;,No
+66,11/3/20 10:09:42,11/3/20 10:13:06,anonymous,,2,3,4,2,2,Pie Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,Maybe
+67,11/3/20 10:09:07,11/3/20 10:13:41,anonymous,,1,4,2,1,2,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,Maybe
+68,11/3/20 10:11:40,11/3/20 10:13:47,anonymous,,1,4,3,3,1,Pie Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,Yes
+69,11/3/20 10:05:58,11/3/20 10:13:48,anonymous,,2,4,2,2,2,Pie Chart,Line Plot,Scatterplot,Software Engineering;User Experience Design;Algorithms;Data Science;Artificial Intelligence;,No
+70,11/3/20 10:09:16,11/3/20 10:13:59,anonymous,,1,5,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+2,11/3/20 8:05:11,11/3/20 8:05:40,comqsjb@herts.ac.uk,Steve Bennett,5,4,3,4,5,Pie Chart,Line Plot,Scatterplot,,No
+16,11/3/20 9:50:57,11/3/20 10:00:36,anonymous,,1,3,2,,,Pie Chart,Histogram,Histogram,,Maybe
+52,11/3/20 10:04:11,11/3/20 10:08:57,anonymous,,1,2,1,1,,Bar Chart,,Pie Chart,,
+65,11/3/20 10:04:19,11/3/20 10:11:47,anonymous,,3,4,4,2,1,Heat Map,Histogram,Line Plot,,Yes
+71,11/3/20 10:05:43,11/3/20 10:14:33,anonymous,,2,2,3,2,2,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,No
+72,11/3/20 10:39:42,11/3/20 10:41:18,anonymous,,4,4,4,4,1,Pie Chart,Scatterplot,Line Plot,Artificial Intelligence;User Experience Design;Software Engineering;Algorithms;Data Science;,No
+73,11/3/20 10:39:57,11/3/20 10:42:26,anonymous,,2,4,3,1,1,Pie Chart,Histogram,Scatterplot,Algorithms;Software Engineering;User Experience Design;Data Science;Artificial Intelligence;,Yes
+74,11/3/20 10:39:20,11/3/20 10:42:29,anonymous,,1,3,3,2,1,Pie Chart,Histogram,Line Plot,Data Science;Artificial Intelligence;User Experience Design;Software Engineering;Algorithms;,No
+75,11/3/20 10:40:44,11/3/20 10:42:35,anonymous,,1,2,2,1,1,Bar Chart,Line Plot,Histogram,User Experience Design;Software Engineering;Algorithms;Artificial Intelligence;Data Science;,Yes
+76,11/3/20 10:39:22,11/3/20 10:44:06,anonymous,,4,4,3,3,4,Pie Chart,Histogram,Scatterplot,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,Yes
+77,11/3/20 10:41:53,11/3/20 10:49:25,anonymous,,2,2,4,3,1,Bar Chart,Histogram,Scatterplot,Data Science;Algorithms;Artificial Intelligence;User Experience Design;Software Engineering;,Yes
+78,11/3/20 10:39:38,11/3/20 10:49:32,anonymous,,1,4,4,1,3,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,Yes
+79,11/3/20 10:48:51,11/3/20 10:54:27,anonymous,,3,3,4,1,1,Pie Chart,Histogram,Line Plot,Data Science;User Experience Design;Artificial Intelligence;Software Engineering;Algorithms;,Maybe
+80,11/3/20 11:06:09,11/3/20 11:06:51,anonymous,,4,4,4,4,1,Pie Chart,Scatterplot,Line Plot,Artificial Intelligence;Software Engineering;User Experience Design;Data Science;Algorithms;,No
+81,11/3/20 11:06:12,11/3/20 11:07:46,anonymous,,5,5,1,1,1,Histogram,Scatterplot,Pie Chart,User Experience Design;Algorithms;Data Science;Software Engineering;Artificial Intelligence;,Yes
+82,11/3/20 11:06:25,11/3/20 11:07:47,anonymous,,1,1,2,,,Pie Chart,Heat Map,Histogram,Data Science;Algorithms;Artificial Intelligence;Software Engineering;User Experience Design;,Maybe
+83,11/3/20 11:06:22,11/3/20 11:07:59,anonymous,,4,3,3,3,2,Histogram,Pie Chart,Line Plot,Artificial Intelligence;Software Engineering;Algorithms;Data Science;User Experience Design;,No
+84,11/3/20 11:06:12,11/3/20 11:08:07,anonymous,,5,5,4,2,1,Pie Chart,Line Plot,Heat Map,Algorithms;Software Engineering;Data Science;User Experience Design;Artificial Intelligence;,Maybe
+85,11/3/20 11:06:13,11/3/20 11:08:13,anonymous,,1,3,3,1,1,Pie Chart,Histogram,Histogram,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,No
+86,11/3/20 11:06:30,11/3/20 11:08:19,anonymous,,3,4,3,2,,Pie Chart,Heat Map,Line Plot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,Yes
+87,11/3/20 11:06:45,11/3/20 11:08:44,anonymous,,1,4,2,1,1,Bar Chart,Line Plot,Line Plot,Data Science;Artificial Intelligence;User Experience Design;Software Engineering;Algorithms;,Maybe
+88,11/3/20 11:06:18,11/3/20 11:08:50,anonymous,,1,3,2,1,1,Pie Chart,Histogram,Line Plot,Algorithms;Software Engineering;Artificial Intelligence;Data Science;User Experience Design;,Maybe
+89,11/3/20 11:06:40,11/3/20 11:09:04,anonymous,,,2,2,,,Bar Chart,Pie Chart,,Algorithms;Data Science;Artificial Intelligence;Software Engineering;User Experience Design;,No
+90,11/3/20 11:06:12,11/3/20 11:09:11,anonymous,,5,5,3,1,1,Heat Map,Histogram,Scatterplot,Software Engineering;Algorithms;Artificial Intelligence;Data Science;User Experience Design;,Maybe
+92,11/3/20 11:07:08,11/3/20 11:09:33,anonymous,,3,2,4,3,2,Pie Chart,Histogram,Scatterplot,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,Yes
+93,11/3/20 11:07:23,11/3/20 11:09:40,anonymous,,1,1,1,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+94,11/3/20 11:07:07,11/3/20 11:09:46,anonymous,,4,3,3,2,2,Histogram,Pie Chart,Line Plot,Artificial Intelligence;Algorithms;Data Science;Software Engineering;User Experience Design;,Maybe
+95,11/3/20 11:06:18,11/3/20 11:10:49,anonymous,,4,3,3,3,1,Pie Chart,Histogram,Scatterplot,Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;Data Science;,Maybe
+96,11/3/20 11:06:17,11/3/20 11:11:35,anonymous,,3,4,3,3,3,Bar Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Algorithms;User Experience Design;Software Engineering;,Maybe
+97,11/3/20 11:07:18,11/3/20 11:13:25,anonymous,,1,3,3,1,1,Bar Chart,Histogram,,Algorithms;Data Science;Artificial Intelligence;Software Engineering;User Experience Design;,No
+98,11/3/20 11:13:07,11/3/20 11:13:40,anonymous,,2,4,3,1,1,Pie Chart,Histogram,Scatterplot,Algorithms;Software Engineering;User Experience Design;Data Science;Artificial Intelligence;,Yes
+99,11/3/20 10:39:52,11/3/20 11:13:51,anonymous,,1,3,4,4,1,Pie Chart,Histogram,Line Plot,Data Science;Algorithms;Artificial Intelligence;Software Engineering;User Experience Design;,Yes
+100,11/3/20 11:07:01,11/3/20 11:13:56,anonymous,,,,3,2,3,Pie Chart,Histogram,Histogram,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+101,11/3/20 11:06:14,11/3/20 11:14:22,anonymous,,5,5,5,5,5,Box Chart,Line Plot,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+102,11/3/20 11:06:13,11/3/20 11:14:24,anonymous,,2,2,1,1,1,Bar Chart,Histogram,Line Plot,Data Science;Algorithms;Artificial Intelligence;Software Engineering;User Experience Design;,Yes
+103,11/3/20 11:10:39,11/3/20 11:14:46,anonymous,,4,4,3,3,2,Bar Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;Algorithms;User Experience Design;Software Engineering;,Maybe
+104,11/3/20 11:09:05,11/3/20 11:14:59,anonymous,,1,4,2,1,3,Bar Chart,Heat Map,Heat Map,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,No
+105,11/3/20 11:14:06,11/3/20 11:15:08,anonymous,,2,4,3,2,3,Pie Chart,Line Plot,Scatterplot,User Experience Design;Data Science;Artificial Intelligence;Software Engineering;Algorithms;,Yes
+106,11/3/20 11:09:04,11/3/20 11:15:28,anonymous,,3,3,2,2,2,Bar Chart,Line Plot,Pie Chart,User Experience Design;Artificial Intelligence;Software Engineering;Data Science;Algorithms;,Yes
+107,11/3/20 11:13:48,11/3/20 11:15:50,anonymous,,1,4,4,1,1,Histogram,Line Plot,Histogram,Data Science;Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;,Yes
+108,11/3/20 10:40:21,11/3/20 11:15:52,anonymous,,1,2,4,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;Data Science;,No
+109,11/3/20 11:13:34,11/3/20 11:16:11,anonymous,,4,3,3,1,5,Bar Chart,Histogram,Line Plot,Data Science;Algorithms;Software Engineering;Artificial Intelligence;User Experience Design;,Yes
+110,11/3/20 11:17:22,11/3/20 11:17:27,anonymous,,4,3,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;Algorithms;Data Science;User Experience Design;,Maybe
+111,11/3/20 11:08:22,11/3/20 11:18:04,anonymous,,2,2,2,1,1,Bar Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Yes
+112,11/3/20 11:06:51,11/3/20 11:19:17,anonymous,,2,2,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,No
+113,11/3/20 11:18:28,11/3/20 11:20:06,anonymous,,3,4,4,3,1,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,Maybe
+114,11/3/20 11:18:31,11/3/20 11:21:35,anonymous,,1,2,2,1,2,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+115,11/3/20 11:20:29,11/3/20 11:21:46,anonymous,,1,4,3,1,1,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;Algorithms;User Experience Design;Software Engineering;,No
+116,11/3/20 11:19:47,11/3/20 11:22:12,anonymous,,4,4,3,2,1,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+117,11/3/20 11:20:33,11/3/20 11:22:23,anonymous,,3,3,3,4,1,Histogram,Histogram,Pie Chart,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Yes
+119,11/3/20 11:24:19,11/3/20 11:25:05,anonymous,,1,1,2,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+120,11/3/20 11:23:07,11/3/20 11:25:06,anonymous,,1,3,3,1,1,Histogram,Pie Chart,Scatterplot,Artificial Intelligence;User Experience Design;Algorithms;Data Science;Software Engineering;,Maybe
+121,11/3/20 11:22:20,11/3/20 11:26:08,anonymous,,,1,3,,,Pie Chart,Pie Chart,Scatterplot,Data Science;Artificial Intelligence;Algorithms;Software Engineering;User Experience Design;,
+122,11/3/20 12:04:24,11/3/20 12:05:15,anonymous,,1,4,3,1,1,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;Algorithms;User Experience Design;Software Engineering;,No
+123,11/3/20 12:04:31,11/3/20 12:06:09,anonymous,,3,3,3,1,1,Bar Chart,Pie Chart,Scatterplot,Software Engineering;Algorithms;Artificial Intelligence;Data Science;User Experience Design;,Yes
+124,11/3/20 12:05:07,11/3/20 12:06:15,anonymous,,1,2,3,2,1,Pie Chart,Scatterplot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+125,11/3/20 12:06:00,11/3/20 12:07:20,anonymous,,5,5,,5,5,Bar Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+126,11/3/20 12:06:17,11/3/20 12:08:19,anonymous,,3,3,3,1,1,Bar Chart,Pie Chart,Pie Chart,Software Engineering;User Experience Design;Data Science;Artificial Intelligence;Algorithms;,Yes
+127,11/3/20 12:06:17,11/3/20 12:08:52,anonymous,,1,3,3,,1,Pie Chart,Histogram,Line Plot,Algorithms;Software Engineering;User Experience Design;Data Science;Artificial Intelligence;,Maybe
+128,11/3/20 12:05:59,11/3/20 12:09:48,anonymous,,5,5,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,No
+129,11/3/20 12:07:57,11/3/20 12:10:09,anonymous,,2,4,2,2,3,Pie Chart,Histogram,Scatterplot,Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;Data Science;,Maybe
+130,11/3/20 11:07:22,11/3/20 12:12:01,anonymous,,1,5,2,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,No
+132,11/3/20 12:11:01,11/3/20 12:14:03,anonymous,,2,2,2,2,2,Pie Chart,Histogram,Line Plot,Software Engineering;User Experience Design;Artificial Intelligence;Data Science;Algorithms;,Yes
+133,11/3/20 11:19:41,11/3/20 13:09:51,anonymous,,1,3,5,2,1,Bar Chart,Histogram,Scatterplot,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Maybe
+134,11/3/20 14:03:27,11/3/20 15:52:56,anonymous,,1,3,1,1,1,Pie Chart,Pie Chart,Pie Chart,Software Engineering;Algorithms;Data Science;User Experience Design;Artificial Intelligence;,Maybe
+135,11/5/20 9:25:45,11/5/20 9:27:16,anonymous,,4,4,3,3,1,Pie Chart,Pie Chart,Line Plot,Data Science;User Experience Design;Algorithms;Software Engineering;Artificial Intelligence;,Maybe
+136,11/5/20 9:59:35,11/5/20 10:00:05,anonymous,,1,2,1,1,1,Pie Chart,Pie Chart,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+137,11/5/20 9:58:52,11/5/20 10:00:32,anonymous,,1,1,3,1,1,Bar Chart,Histogram,Histogram,Data Science;User Experience Design;Artificial Intelligence;Software Engineering;Algorithms;,No
+138,11/5/20 9:58:39,11/5/20 10:00:32,anonymous,,5,3,2,1,3,Pie Chart,Histogram,Pie Chart,Data Science;Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;,No
+139,11/5/20 9:59:04,11/5/20 10:01:07,anonymous,,1,2,2,1,1,Box Chart,Line Plot,Scatterplot,User Experience Design;Data Science;Artificial Intelligence;Algorithms;Software Engineering;,Maybe
+140,11/5/20 10:00:31,11/5/20 10:01:31,anonymous,,1,3,1,1,4,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;Data Science;,No
+91,11/3/20 11:06:43,11/3/20 11:09:13,anonymous,,1,1,1,1,,Bar Chart,Line Plot,Histogram,,Maybe
+118,11/3/20 11:19:35,11/3/20 11:22:43,anonymous,,,3,3,,,Histogram,Histogram,,,Yes
+131,11/3/20 12:12:29,11/3/20 12:13:46,anonymous,,1,2,2,1,1,Pie Chart,Line Plot,Scatterplot,,Maybe
+141,11/5/20 10:01:02,11/5/20 10:01:48,anonymous,,1,1,2,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Algorithms;Software Engineering;,No
+142,11/5/20 9:59:38,11/5/20 10:01:49,anonymous,,3,3,2,1,,Bar Chart,Line Plot,Scatterplot,Data Science;Artificial Intelligence;Software Engineering;Algorithms;User Experience Design;,Yes
+143,11/5/20 9:59:13,11/5/20 10:02:16,anonymous,,2,2,2,1,,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Yes
+144,11/5/20 9:59:11,11/5/20 10:02:19,anonymous,,5,4,3,1,1,Pie Chart,Line Plot,Histogram,Software Engineering;User Experience Design;Artificial Intelligence;Algorithms;Data Science;,Maybe
+145,11/5/20 10:00:39,11/5/20 10:02:21,anonymous,,3,4,3,3,2,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,Maybe
+146,11/5/20 9:59:27,11/5/20 10:02:54,anonymous,,1,1,3,1,1,Pie Chart,Pie Chart,Line Plot,Artificial Intelligence;Software Engineering;Data Science;Algorithms;User Experience Design;,Yes
+147,11/5/20 10:02:20,11/5/20 10:03:28,anonymous,,,5,2,,,Bar Chart,Pie Chart,,User Experience Design;Software Engineering;Artificial Intelligence;Data Science;Algorithms;,
+148,11/5/20 9:58:35,11/5/20 10:03:40,anonymous,,3,3,2,1,3,Bar Chart,Histogram,Scatterplot,Software Engineering;Artificial Intelligence;User Experience Design;Data Science;Algorithms;,Maybe
+149,11/5/20 9:59:01,11/5/20 10:04:23,anonymous,,2,1,3,1,1,Heat Map,Histogram,Histogram,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Yes
+150,11/5/20 10:00:29,11/5/20 10:05:05,anonymous,,1,4,3,1,1,Pie Chart,Histogram,Line Plot,User Experience Design;Software Engineering;Artificial Intelligence;Data Science;Algorithms;,Maybe
+151,11/5/20 10:02:41,11/5/20 10:06:11,anonymous,,1,4,3,1,1,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+152,11/5/20 10:05:54,11/5/20 10:07:10,anonymous,,3,3,1,1,1,Pie Chart,Pie Chart,Histogram,Algorithms;Data Science;Artificial Intelligence;User Experience Design;Software Engineering;,Yes
+153,11/5/20 10:07:18,11/5/20 10:08:57,anonymous,,4,4,5,4,4,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+154,11/5/20 10:03:28,11/5/20 10:09:07,anonymous,,2,3,3,2,2,Bar Chart,Histogram,Line Plot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+155,11/5/20 10:00:32,11/5/20 10:09:51,anonymous,,1,3,2,1,1,Histogram,Pie Chart,,User Experience Design;Software Engineering;Data Science;Algorithms;Artificial Intelligence;,No
+156,11/5/20 10:00:28,11/5/20 10:10:02,anonymous,,4,4,3,3,2,Bar Chart,Line Plot,Line Plot,Algorithms;User Experience Design;Data Science;Software Engineering;Artificial Intelligence;,Maybe
+157,11/5/20 10:11:00,11/5/20 10:11:31,anonymous,,1,1,1,1,1,Pie Chart,Line Plot,Pie Chart,Software Engineering;Algorithms;Data Science;User Experience Design;Artificial Intelligence;,Maybe
+158,11/5/20 11:01:55,11/5/20 11:03:11,anonymous,,1,3,3,1,1,Pie Chart,Line Plot,Scatterplot,Data Science;Algorithms;Artificial Intelligence;Software Engineering;User Experience Design;,No
+159,11/5/20 11:01:54,11/5/20 11:03:32,anonymous,,4,4,4,3,4,Pie Chart,Scatterplot,Line Plot,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Maybe
+160,11/5/20 11:02:35,11/5/20 11:03:39,anonymous,,3,4,3,1,1,Pie Chart,Line Plot,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+161,11/5/20 11:01:54,11/5/20 11:03:47,anonymous,,2,5,4,1,4,Pie Chart,Line Plot,Scatterplot,Data Science;User Experience Design;Software Engineering;Artificial Intelligence;Algorithms;,Maybe
+162,11/5/20 11:01:49,11/5/20 11:03:58,anonymous,,2,2,4,2,2,Pie Chart,Heat Map,Line Plot,Software Engineering;Algorithms;Data Science;Artificial Intelligence;User Experience Design;,Yes
+163,11/5/20 11:02:18,11/5/20 11:03:59,anonymous,,3,4,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+164,11/5/20 11:02:05,11/5/20 11:04:03,anonymous,,4,5,5,3,3,Bar Chart,Histogram,Line Plot,Software Engineering;Artificial Intelligence;Data Science;User Experience Design;Algorithms;,Yes
+165,11/5/20 11:01:50,11/5/20 11:04:08,anonymous,,1,2,4,2,1,Bar Chart,Line Plot,Line Plot,Data Science;Artificial Intelligence;User Experience Design;Software Engineering;Algorithms;,Yes
+166,11/5/20 11:01:54,11/5/20 11:04:49,anonymous,,1,1,1,1,1,Pie Chart,Pie Chart,Line Plot,Data Science;Software Engineering;User Experience Design;Algorithms;Artificial Intelligence;,No
+167,11/5/20 11:01:52,11/5/20 11:06:42,anonymous,,3,5,4,3,4,Pie Chart,Histogram,Line Plot,User Experience Design;Artificial Intelligence;Algorithms;Data Science;Software Engineering;,No
+168,11/5/20 11:06:06,11/5/20 11:07:30,anonymous,,3,3,2,1,1,Bar Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,Maybe
+169,11/5/20 11:03:11,11/5/20 11:07:44,anonymous,,4,4,3,3,3,Bar Chart,Heat Map,Pie Chart,Software Engineering;Artificial Intelligence;Data Science;User Experience Design;Algorithms;,No
+170,11/5/20 11:02:55,11/5/20 11:07:48,anonymous,,3,3,1,3,3,Bar Chart,Heat Map,Histogram,Software Engineering;Artificial Intelligence;User Experience Design;Data Science;Algorithms;,Maybe
+171,11/5/20 11:09:23,11/5/20 11:13:52,anonymous,,2,4,1,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Software Engineering;Data Science;Algorithms;User Experience Design;,No
+172,11/5/20 11:11:51,11/5/20 11:14:00,anonymous,,1,1,2,1,1,Pie Chart,Line Plot,Line Plot,Artificial Intelligence;Data Science;Algorithms;User Experience Design;Software Engineering;,Yes
+173,11/5/20 11:15:06,11/5/20 11:17:10,anonymous,,3,4,3,4,2,Pie Chart,Line Plot,Scatterplot,Software Engineering;Artificial Intelligence;Algorithms;Data Science;User Experience Design;,No
+174,11/5/20 11:06:32,11/5/20 11:17:53,anonymous,,4,4,1,1,1,Pie Chart,Line Plot,Scatterplot,Software Engineering;Artificial Intelligence;Data Science;User Experience Design;Algorithms;,Maybe
+175,11/5/20 11:05:11,11/5/20 11:18:01,anonymous,,1,5,3,1,1,Pie Chart,Histogram,Scatterplot,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,Yes
+176,11/5/20 12:02:29,11/5/20 12:03:07,anonymous,,1,2,1,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,No
+177,11/5/20 12:02:32,11/5/20 12:04:36,anonymous,,3,3,3,1,2,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;Algorithms;User Experience Design;,Yes
+178,11/5/20 12:02:41,11/5/20 12:04:49,anonymous,,1,3,3,1,1,Pie Chart,Histogram,Pie Chart,Data Science;Software Engineering;Algorithms;Artificial Intelligence;User Experience Design;,Maybe
+179,11/5/20 12:02:28,11/5/20 12:06:16,anonymous,,1,5,5,1,1,Bar Chart,Heat Map,Histogram,Artificial Intelligence;Data Science;User Experience Design;Software Engineering;Algorithms;,No
+180,11/5/20 12:03:08,11/5/20 12:06:18,anonymous,,2,3,1,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Algorithms;Data Science;User Experience Design;Software Engineering;,Maybe
+181,11/5/20 12:02:45,11/5/20 12:06:20,anonymous,,5,5,3,1,1,Pie Chart,Histogram,Histogram,User Experience Design;Artificial Intelligence;Data Science;Software Engineering;Algorithms;,Yes
+182,11/5/20 12:06:45,11/5/20 12:07:19,anonymous,,1,1,1,1,1,Histogram,Histogram,Histogram,Artificial Intelligence;Software Engineering;Algorithms;Data Science;User Experience Design;,Yes
+183,11/5/20 12:04:15,11/5/20 12:07:31,anonymous,,2,2,3,1,1,Pie Chart,Line Plot,Scatterplot,Data Science;Algorithms;Artificial Intelligence;Software Engineering;User Experience Design;,Maybe
+184,11/5/20 12:02:23,11/5/20 12:08:10,anonymous,,4,4,2,2,3,Bar Chart,Line Plot,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Yes
+185,11/5/20 12:03:28,11/5/20 12:08:20,anonymous,,2,3,4,1,1,Box Chart,Line Plot,Pie Chart,Algorithms;User Experience Design;Software Engineering;Data Science;Artificial Intelligence;,Maybe
+186,11/5/20 12:06:53,11/5/20 12:08:27,anonymous,,3,3,3,2,1,Pie Chart,Line Plot,Line Plot,Algorithms;Data Science;Artificial Intelligence;Software Engineering;User Experience Design;,Maybe
+188,11/5/20 12:06:58,11/5/20 12:09:06,anonymous,,2,4,4,1,1,Bar Chart,Scatterplot,Pie Chart,Artificial Intelligence;Software Engineering;Data Science;Algorithms;User Experience Design;,No
+189,11/5/20 12:06:48,11/5/20 12:09:30,anonymous,,4,3,2,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Algorithms;Software Engineering;Data Science;User Experience Design;,Yes
+190,11/5/20 12:08:42,11/5/20 12:10:17,anonymous,,2,4,2,2,2,Pie Chart,Line Plot,Line Plot,Software Engineering;User Experience Design;Artificial Intelligence;Data Science;Algorithms;,Maybe
+191,11/5/20 12:07:11,11/5/20 12:10:22,anonymous,,3,3,3,2,2,Heat Map,Histogram,Line Plot,Algorithms;User Experience Design;Software Engineering;Artificial Intelligence;Data Science;,Maybe
+193,11/5/20 12:07:39,11/5/20 12:10:45,anonymous,,1,4,3,1,1,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Software Engineering;User Experience Design;Data Science;Algorithms;,Maybe
+194,11/5/20 12:07:21,11/5/20 12:10:55,anonymous,,2,5,3,1,1,Pie Chart,Histogram,Line Plot,Artificial Intelligence;User Experience Design;Data Science;Software Engineering;Algorithms;,Yes
+195,11/5/20 12:07:50,11/5/20 12:12:25,anonymous,,1,2,4,1,1,Bar Chart,Pie Chart,Pie Chart,Data Science;Artificial Intelligence;Software Engineering;User Experience Design;Algorithms;,Maybe
+196,11/5/20 12:06:45,11/5/20 12:13:01,anonymous,,2,1,2,1,1,Pie Chart,Line Plot,Histogram,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Maybe
+197,11/5/20 12:13:03,11/5/20 12:14:01,anonymous,,5,5,3,4,1,Bar Chart,Pie Chart,Scatterplot,Artificial Intelligence;Software Engineering;Data Science;User Experience Design;Algorithms;,Yes
+198,11/5/20 12:12:07,11/5/20 12:14:04,anonymous,,1,2,5,1,1,Histogram,Histogram,Pie Chart,Artificial Intelligence;Data Science;Software Engineering;Algorithms;User Experience Design;,Yes
+199,11/5/20 12:12:54,11/5/20 12:14:45,anonymous,,3,3,3,3,3,Pie Chart,Histogram,Line Plot,Artificial Intelligence;Data Science;Algorithms;Software Engineering;User Experience Design;,Maybe
+200,11/5/20 12:12:20,11/5/20 12:14:46,anonymous,,1,3,3,1,1,Pie Chart,Heat Map,,Data Science;Algorithms;Software Engineering;User Experience Design;Artificial Intelligence;,Maybe
+201,11/5/20 12:25:44,11/5/20 12:27:35,anonymous,,3,2,3,1,1,Pie Chart,Line Plot,Scatterplot,Artificial Intelligence;Data Science;Software Engineering;User Experience Design;Algorithms;,Maybe
+187,11/5/20 12:07:15,11/5/20 12:08:34,anonymous,,3,4,4,3,1,Pie Chart,Histogram,Scatterplot,,Yes
+192,11/5/20 12:07:37,11/5/20 12:10:38,anonymous,,2,4,3,1,1,Pie Chart,Histogram,Scatterplot,,No

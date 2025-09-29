@@ -1,0 +1,31 @@
+What is the correlation between the columns mpg-disp in the mtcars dataset?
+= -0.847551379262479
+What is the correlation between the columns mpg-hp in the mtcars dataset?
+= -0.776168371826586
+What is the correlation between the columns mpg-drat in the mtcars dataset?
+= 0.681171907806749
+What is the correlation between the columns mpg-wt in the mtcars dataset?
+= -0.867659376517228
+What is the correlation between the columns mpg-qsec in the mtcars dataset?
+= 0.418684033921778
+What is the correlation between the columns disp-hp in the mtcars dataset?
+= 0.790948586369806
+What is the correlation between the columns disp-drat in the mtcars dataset?
+= -0.71021392716927
+What is the correlation between the columns disp-wt in the mtcars dataset?
+= 0.887979922058138
+What is the correlation between the columns disp-qsec in the mtcars dataset?
+= -0.433697880811014
+What is the correlation between the columns hp-drat in the mtcars dataset?
+= -0.44875911687292
+What is the correlation between the columns hp-wt in the mtcars dataset?
+= 0.658747887344759
+What is the correlation between the columns hp-qsec in the mtcars dataset?
+= -0.708223388861953
+What is the correlation between the columns drat-wt in the mtcars dataset?
+= -0.712440646697372
+What is the correlation between the columns drat-qsec in the mtcars dataset?
+= 0.091204759651183
+What is the correlation between the columns wt-qsec in the mtcars dataset?
+= -0.174715878713405
+

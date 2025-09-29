@@ -1,0 +1,136 @@
+"","csvId","Q","Value"
+"1","myTest1.csv","...1",1
+"2","myTest2.csv","...1",2
+"3","myTest3.csv","...1",3
+"4","myTest4.csv","...1",4
+"5","myTest5.csv","...1",5
+"6","myTest6.csv","...1",6
+"7","myTest7.csv","...1",7
+"8","myTest8.csv","...1",8
+"9","myTest9.csv","...1",9
+"10","myTest10.csv","...1",10
+"11","myTest11.csv","...1",11
+"12","myTest12.csv","...1",12
+"13","myTest13.csv","...1",13
+"14","myTest14.csv","...1",14
+"15","myTest15.csv","...1",15
+"16","myTest1.csv","sd_of_New migrant (NINo) rates (2014/15)",18.0193498688762
+"17","myTest2.csv","sd_of_New migrant (NINo) rates (2014/15)",41.0176421762267
+"18","myTest3.csv","sd_of_New migrant (NINo) rates (2014/15)",23.4693546153405
+"19","myTest4.csv","sd_of_New migrant (NINo) rates (2014/15)",39.4380027461592
+"20","myTest5.csv","sd_of_New migrant (NINo) rates (2014/15)",32.3812515901633
+"21","myTest6.csv","sd_of_New migrant (NINo) rates (2014/15)",26.2049035429816
+"22","myTest7.csv","sd_of_New migrant (NINo) rates (2014/15)",26.0832002126528
+"23","myTest8.csv","sd_of_New migrant (NINo) rates (2014/15)",26.1480342850031
+"24","myTest9.csv","sd_of_New migrant (NINo) rates (2014/15)",21.9296395526486
+"25","myTest10.csv","sd_of_New migrant (NINo) rates (2014/15)",23.9785257463777
+"26","myTest11.csv","sd_of_New migrant (NINo) rates (2014/15)",24.1240481049449
+"27","myTest12.csv","sd_of_New migrant (NINo) rates (2014/15)",39.7517866951228
+"28","myTest13.csv","sd_of_New migrant (NINo) rates (2014/15)",29.9892657563679
+"29","myTest14.csv","sd_of_New migrant (NINo) rates (2014/15)",29.7367235463614
+"30","myTest15.csv","sd_of_New migrant (NINo) rates (2014/15)",30.4136881065487
+"31","myTest1.csv","median_of_Number of active businesses 2014",14017.5
+"32","myTest2.csv","median_of_Number of active businesses 2014",13780
+"33","myTest3.csv","median_of_Number of active businesses 2014",14612.5
+"34","myTest4.csv","median_of_Number of active businesses 2014",18092.5
+"35","myTest5.csv","median_of_Number of active businesses 2014",13067.5
+"36","myTest6.csv","median_of_Number of active businesses 2014",14540
+"37","myTest7.csv","median_of_Number of active businesses 2014",13087.5
+"38","myTest8.csv","median_of_Number of active businesses 2014",13642.5
+"39","myTest9.csv","median_of_Number of active businesses 2014",15460
+"40","myTest10.csv","median_of_Number of active businesses 2014",16202.5
+"41","myTest11.csv","median_of_Number of active businesses 2014",15977.5
+"42","myTest12.csv","median_of_Number of active businesses 2014",14540
+"43","myTest13.csv","median_of_Number of active businesses 2014",14340
+"44","myTest14.csv","median_of_Number of active businesses 2014",15270
+"45","myTest15.csv","median_of_Number of active businesses 2014",14200
+"46","myTest1.csv","IQR_of_New migrant (NINo) rates (2014/15)",19.75
+"47","myTest2.csv","IQR_of_New migrant (NINo) rates (2014/15)",36.5
+"48","myTest3.csv","IQR_of_New migrant (NINo) rates (2014/15)",20
+"49","myTest4.csv","IQR_of_New migrant (NINo) rates (2014/15)",41.25
+"50","myTest5.csv","IQR_of_New migrant (NINo) rates (2014/15)",49
+"51","myTest6.csv","IQR_of_New migrant (NINo) rates (2014/15)",31
+"52","myTest7.csv","IQR_of_New migrant (NINo) rates (2014/15)",38.5
+"53","myTest8.csv","IQR_of_New migrant (NINo) rates (2014/15)",47
+"54","myTest9.csv","IQR_of_New migrant (NINo) rates (2014/15)",34
+"55","myTest10.csv","IQR_of_New migrant (NINo) rates (2014/15)",34
+"56","myTest11.csv","IQR_of_New migrant (NINo) rates (2014/15)",31
+"57","myTest12.csv","IQR_of_New migrant (NINo) rates (2014/15)",34.75
+"58","myTest13.csv","IQR_of_New migrant (NINo) rates (2014/15)",15.5
+"59","myTest14.csv","IQR_of_New migrant (NINo) rates (2014/15)",28.75
+"60","myTest15.csv","IQR_of_New migrant (NINo) rates (2014/15)",42.75
+"61","myTest1.csv","IQR_of_Number of cars per household (2011 Census)",0.45
+"62","myTest2.csv","IQR_of_Number of cars per household (2011 Census)",0.3
+"63","myTest3.csv","IQR_of_Number of cars per household (2011 Census)",0.35
+"64","myTest4.csv","IQR_of_Number of cars per household (2011 Census)",0.525
+"65","myTest5.csv","IQR_of_Number of cars per household (2011 Census)",0.45
+"66","myTest6.csv","IQR_of_Number of cars per household (2011 Census)",0.3
+"67","myTest7.csv","IQR_of_Number of cars per household (2011 Census)",0.4
+"68","myTest8.csv","IQR_of_Number of cars per household (2011 Census)",0.5
+"69","myTest9.csv","IQR_of_Number of cars per household (2011 Census)",0.525
+"70","myTest10.csv","IQR_of_Number of cars per household (2011 Census)",0.625
+"71","myTest11.csv","IQR_of_Number of cars per household (2011 Census)",0.525
+"72","myTest12.csv","IQR_of_Number of cars per household (2011 Census)",0.25
+"73","myTest13.csv","IQR_of_Number of cars per household (2011 Census)",0.325
+"74","myTest14.csv","IQR_of_Number of cars per household (2011 Census)",0.3
+"75","myTest15.csv","IQR_of_Number of cars per household (2011 Census)",0.4
+"76","myTest1.csv","median_of_GLA Population Estimate 2016",313238.5
+"77","myTest2.csv","median_of_GLA Population Estimate 2016",276316.5
+"78","myTest3.csv","median_of_GLA Population Estimate 2016",275335.5
+"79","myTest4.csv","median_of_GLA Population Estimate 2016",302218
+"80","myTest5.csv","median_of_GLA Population Estimate 2016",275335.5
+"81","myTest6.csv","median_of_GLA Population Estimate 2016",300248
+"82","myTest7.csv","median_of_GLA Population Estimate 2016",286806.5
+"83","myTest8.csv","median_of_GLA Population Estimate 2016",272857.5
+"84","myTest9.csv","median_of_GLA Population Estimate 2016",273985
+"85","myTest10.csv","median_of_GLA Population Estimate 2016",314447.5
+"86","myTest11.csv","median_of_GLA Population Estimate 2016",304223.5
+"87","myTest12.csv","median_of_GLA Population Estimate 2016",301214
+"88","myTest13.csv","median_of_GLA Population Estimate 2016",323410.5
+"89","myTest14.csv","median_of_GLA Population Estimate 2016",305058
+"90","myTest15.csv","median_of_GLA Population Estimate 2016",271507
+"91","myTest1.csv","max_of_% of employment that is in public sector (2014)",24.8
+"92","myTest2.csv","max_of_% of employment that is in public sector (2014)",23.1
+"93","myTest3.csv","max_of_% of employment that is in public sector (2014)",27.3
+"94","myTest4.csv","max_of_% of employment that is in public sector (2014)",27.3
+"95","myTest5.csv","max_of_% of employment that is in public sector (2014)",27.3
+"96","myTest6.csv","max_of_% of employment that is in public sector (2014)",22.9
+"97","myTest7.csv","max_of_% of employment that is in public sector (2014)",23
+"98","myTest8.csv","max_of_% of employment that is in public sector (2014)",27.3
+"99","myTest9.csv","max_of_% of employment that is in public sector (2014)",27.3
+"100","myTest10.csv","max_of_% of employment that is in public sector (2014)",23.1
+"101","myTest11.csv","max_of_% of employment that is in public sector (2014)",27.3
+"102","myTest12.csv","max_of_% of employment that is in public sector (2014)",27.3
+"103","myTest13.csv","max_of_% of employment that is in public sector (2014)",24.8
+"104","myTest14.csv","max_of_% of employment that is in public sector (2014)",23
+"105","myTest15.csv","max_of_% of employment that is in public sector (2014)",27.3
+"106","myTest1.csv","median_of_% children living in out-of-work households (2014)",16.35
+"107","myTest2.csv","median_of_% children living in out-of-work households (2014)",14.85
+"108","myTest3.csv","median_of_% children living in out-of-work households (2014)",19.25
+"109","myTest4.csv","median_of_% children living in out-of-work households (2014)",15.65
+"110","myTest5.csv","median_of_% children living in out-of-work households (2014)",17.85
+"111","myTest6.csv","median_of_% children living in out-of-work households (2014)",16.1
+"112","myTest7.csv","median_of_% children living in out-of-work households (2014)",15.8
+"113","myTest8.csv","median_of_% children living in out-of-work households (2014)",16.3
+"114","myTest9.csv","median_of_% children living in out-of-work households (2014)",15.7
+"115","myTest10.csv","median_of_% children living in out-of-work households (2014)",16.45
+"116","myTest11.csv","median_of_% children living in out-of-work households (2014)",18.8
+"117","myTest12.csv","median_of_% children living in out-of-work households (2014)",16.35
+"118","myTest13.csv","median_of_% children living in out-of-work households (2014)",16.1
+"119","myTest14.csv","median_of_% children living in out-of-work households (2014)",16.1
+"120","myTest15.csv","median_of_% children living in out-of-work households (2014)",16.1
+"121","myTest1.csv","IQR_of_Number of cars (2011 Census)",53471.5
+"122","myTest2.csv","IQR_of_Number of cars (2011 Census)",53382
+"123","myTest3.csv","IQR_of_Number of cars (2011 Census)",39312
+"124","myTest4.csv","IQR_of_Number of cars (2011 Census)",66383.25
+"125","myTest5.csv","IQR_of_Number of cars (2011 Census)",37661.75
+"126","myTest6.csv","IQR_of_Number of cars (2011 Census)",74158.75
+"127","myTest7.csv","IQR_of_Number of cars (2011 Census)",40540
+"128","myTest8.csv","IQR_of_Number of cars (2011 Census)",53038.5
+"129","myTest9.csv","IQR_of_Number of cars (2011 Census)",82083.75
+"130","myTest10.csv","IQR_of_Number of cars (2011 Census)",61674
+"131","myTest11.csv","IQR_of_Number of cars (2011 Census)",60607.75
+"132","myTest12.csv","IQR_of_Number of cars (2011 Census)",64374.25
+"133","myTest13.csv","IQR_of_Number of cars (2011 Census)",502316.25
+"134","myTest14.csv","IQR_of_Number of cars (2011 Census)",699284.25
+"135","myTest15.csv","IQR_of_Number of cars (2011 Census)",35452.25

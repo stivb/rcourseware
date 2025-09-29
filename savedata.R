@@ -1,0 +1,6 @@
+students<-read_csv("students.txt", col_names=FALSE)
+print("----------------------------------")
+print(students)
+print(length(students$X1))
+print(round(1.7923445,2))
+print(round(1.7953455,2))
