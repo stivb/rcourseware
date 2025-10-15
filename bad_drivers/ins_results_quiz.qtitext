@@ -1,0 +1,63 @@
+1. What is the mean of the column "age"?
+= 39.2070254110613 +-0.1
+2. What is the standard deviation of the column "age"?
+= 14.0499603792162 +-0.1
+3. What is the median of the column "age"?
+= 39 +-0.1
+4. What is the minimum of the column "age"?
+= 18 +-0.1
+5. What is the maximum of the column "age"?
+= 64 +-0.1
+6. What is the mean of the column "bmi"?
+= 30.6633968609865 +-0.1
+7. What is the standard deviation of the column "bmi"?
+= 6.09818691167901 +-0.1
+8. What is the median of the column "bmi"?
+= 30.4 +-0.1
+9. What is the minimum of the column "bmi"?
+= 15.96 +-0.1
+10. What is the maximum of the column "bmi"?
+= 53.13 +-0.1
+11. What is the mean of the column "children"?
+= 1.0949177877429 +-0.1
+12. What is the standard deviation of the column "children"?
+= 1.20549273978191 +-0.1
+13. What is the median of the column "children"?
+= 1 +-0.1
+14. What is the minimum of the column "children"?
+= 0 +-0.1
+15. What is the maximum of the column "children"?
+= 5 +-0.1
+16. What is the mean of the column "charges"?
+= 13270.4222651413 +-1
+17. What is the standard deviation of the column "charges"?
+= 12110.011236694 +-1
+18. What is the median of the column "charges"?
+= 9382.033 +-1
+19. What is the minimum of the column "charges"?
+= 1121.8739 +-1
+20. What is the maximum of the column "charges"?
+= 63770.42801 +-1
+21. What is the number of unique entries in the column "sex"?
+= 2 +-0.1
+22. What is the number of unique entries  in the column "smoker"?
+= 2 +-0.1
+23. What is the number of unique entries in the column "region"?
+= 4 +-0.1
+24. How many times does "female" appear in the column "sex"?
+= 662 +-0.1
+25. How many times does "male" appear in the column "sex"?
+= 676 +-0.1
+26. How many times does "no" appear in the column "smoker"?
+= 1064 +-0.1
+27. How many times does "yes" appear in the column "smoker"?
+= 274 +-0.1
+28. How many times does "northeast" appear in the column "region"?
+= 324 +-0.1
+29. How many times does "northwest" appear in the column "region"?
+= 325 +-0.1
+30. How many times does "southeast" appear in the column "region"?
+= 364 +-0.1
+31. How many times does "southwest" appear in the column "region"?
+= 325 +-0.1
+
